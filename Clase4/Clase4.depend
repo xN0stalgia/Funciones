@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536017920 source:c:\users\alumno\desktop\clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536020204 c:\users\alumno\desktop\clase4\funciones.h
+
+1536017936 source:c:\users\alumno\desktop\clase4\funciones.c
+	"funciones.h"
+	<stdio.h>
+
