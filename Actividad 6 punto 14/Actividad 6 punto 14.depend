@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652739296 source:c:\users\asus\desktop\programacion de computadoras sistemas\actividad 6 punto 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
